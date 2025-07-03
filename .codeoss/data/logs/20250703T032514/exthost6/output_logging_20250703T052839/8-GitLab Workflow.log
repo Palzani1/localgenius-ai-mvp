@@ -1,0 +1,29 @@
+2025-07-03T05:28:47:593 [info]: PacProxyAgent not found
+2025-07-03T05:28:49:734 [warning]: There is no GitLab account available. Sending empty credentials to GitLab Language Server
+2025-07-03T05:28:49:739 [info]: handleRegisterCapability: {
+      "id": "3b60173e-d9d1-401c-bf33-b506528c4617",
+      "method": "workspace/didChangeWatchedFiles",
+      "registerOptions": {
+        "watchers": [
+          {
+            "globPattern": "**/*"
+          }
+        ]
+      }
+    }
+2025-07-03T05:28:49:747 [info]: Extracted urls: []
+2025-07-03T05:28:49:748 [warning]: GitExtensionWrapper is missing repository for file:///home/jpalzani
+2025-07-03T05:28:49:751 [warning]: GitExtensionWrapper is missing repository for file:///home/jpalzani
+2025-07-03T05:28:49:752 [warning]: GitExtensionWrapper is missing repository for file:///home/jpalzani
+2025-07-03T05:28:49:752 [warning]: GitExtensionWrapper is missing repository for file:///home/jpalzani
+2025-07-03T05:28:49:752 [info]: Found 0 projects for urls: []
+2025-07-03T05:28:49:753 [warning]: There is no GitLab account available. Sending empty credentials to GitLab Language Server
+2025-07-03T05:28:49:813 [warning]: GitExtensionWrapper is missing repository for file:///home/jpalzani
+2025-07-03T05:28:49:813 [error]: No GitLab projectPath provided for agentic chat support check.
+2025-07-03T05:28:49:853 [info]: Extracted urls: [
+      "https://github.com/Palzani1/localgenius-ai-mvp.git"
+    ]
+2025-07-03T05:28:49:854 [info]: Found 0 projects for urls: [
+      "https://github.com/Palzani1/localgenius-ai-mvp.git"
+    ]
+2025-07-03T05:28:49:854 [warning]: There is no GitLab account available. Sending empty credentials to GitLab Language Server

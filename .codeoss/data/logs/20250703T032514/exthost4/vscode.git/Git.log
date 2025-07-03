@@ -129,3 +129,9 @@ fatal: no email was given and auto-detection is disabled
 2025-07-03 05:02:25.858 [info] > git check-ignore -v -z --stdin [5ms]
 2025-07-03 05:02:33.097 [info] > git check-ignore -v -z --stdin [5ms]
 2025-07-03 05:02:36.881 [info] > git check-ignore -v -z --stdin [13ms]
+2025-07-03 05:14:33.170 [info] > git check-ignore -v -z --stdin [6ms]
+2025-07-03 05:15:44.424 [info] > git show --textconv :.git/COMMIT_EDITMSG [13ms]
+2025-07-03 05:15:44.429 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/jpalzani/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fjpalzani%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-07-03 05:15:44.430 [info] > git ls-files --stage -- .git/COMMIT_EDITMSG [7ms]
+2025-07-03 05:15:44.433 [warning] [GitFileSystemProvider][stat] File not found - git:/home/jpalzani/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fjpalzani%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-07-03 05:15:52.623 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [2ms]

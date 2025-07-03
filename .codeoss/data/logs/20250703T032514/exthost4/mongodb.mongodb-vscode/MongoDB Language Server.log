@@ -1,2 +1,3 @@
 2025-07-03 04:19:01.897 [info] MongoDBService initializing...
 2025-07-03 04:19:01.915 [info] MongoDBService initialized {"extensionPath":"/home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.3-universal","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false}
+2025-07-03 05:17:33.042 [info] [Error - 5:17:33 AM] Stopping server timed out

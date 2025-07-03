@@ -28,3 +28,9 @@ clear
 git rm -r --cached .
 # 2. Re-add everything. This time, Git will respect the new .gitignore file
 # and skip all the files and folders you listed in it.
+git add .
+# 3. Commit the changes. This commit will show the unwanted files being
+# removed and the new .gitignore file being added.
+git commit -m "feat: Add .gitignore and remove ignored files"
+git clone https://github.com/YOUR_USERNAME_OR_ORG/localgenius-ai-mvp.git localgenius-ai-mvp
+git clone https://github.com/jpalzani/localgenius-ai-mvp.git localgenius-ai-mvp

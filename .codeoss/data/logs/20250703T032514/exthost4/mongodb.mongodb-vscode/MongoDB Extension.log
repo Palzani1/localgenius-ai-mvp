@@ -44,3 +44,21 @@
 
 2025-07-03 04:19:01.910 [info] 2025-07-03T04:19:01.910Z language server controller INFO  MongoDBService initialized. Sending default settings... {"extensionPath":"/home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.3-universal","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false} []
 
+2025-07-03 05:17:29.259 [info] 2025-07-03T05:17:29.248Z extension INFO  Deactivating extension... []
+
+2025-07-03 05:17:29.260 [info] 2025-07-03T05:17:29.248Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2025-07-03 05:17:29.260 [info] 2025-07-03T05:17:29.249Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2025-07-03 05:17:29.260 [info] 2025-07-03T05:17:29.249Z connection controller ERROR Unable to disconnect: no active connection []
+
+2025-07-03 05:17:29.260 [info] 2025-07-03T05:17:29.254Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2025-07-03 05:17:29.260 [info] 2025-07-03T05:17:29.254Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2025-07-03 05:17:29.260 [info] 2025-07-03T05:17:29.254Z connection controller ERROR Unable to disconnect: no active connection []
+
+2025-07-03 05:17:29.262 [info] 2025-07-03T05:17:29.260Z language server controller INFO  Deactivating the language server... []
+
+2025-07-03 05:17:29.262 [info] 2025-07-03T05:17:29.260Z language server controller INFO  Deactivating the language server... []
+

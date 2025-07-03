@@ -38,3 +38,6 @@
     ]
 2025-07-03T04:37:53:520 [error]: No GitLab projectPath provided for agentic chat support check.
 2025-07-03T04:37:53:520 [warning]: There is no GitLab account available. Sending empty credentials to GitLab Language Server
+2025-07-03T05:17:29:207 [info]: Extracted urls: []
+2025-07-03T05:17:29:262 [info]: Found 0 projects for urls: []
+2025-07-03T05:17:29:275 [error]: No GitLab projectPath provided for agentic chat support check.

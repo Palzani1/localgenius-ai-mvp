@@ -84,3 +84,13 @@
 2025-07-03 04:18:49.721 [info] [127.0.0.1][643f36f7][ExtensionHostConnection] New connection established.
 2025-07-03 04:18:49.727 [info] [127.0.0.1][643f36f7][ExtensionHostConnection] <1604> Launched Extension Host Process.
 2025-07-03 04:32:20.084 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-07-03 05:17:29.039 [info] [127.0.0.1][d8e36966][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-07-03 05:17:30.522 [info] [127.0.0.1][baae6527][ExtensionHostConnection] New connection established.
+2025-07-03 05:17:30.523 [info] [127.0.0.1][1c16aa9e][ManagementConnection] New connection established.
+2025-07-03 05:17:30.529 [info] [127.0.0.1][baae6527][ExtensionHostConnection] <3044> Launched Extension Host Process.
+2025-07-03 05:17:33.143 [info] [127.0.0.1][643f36f7][ExtensionHostConnection] <1604> Extension Host Process exited with code: 0, signal: null.
+2025-07-03 05:28:31.351 [info] [127.0.0.1][1c16aa9e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-07-03 05:28:31.665 [info] [127.0.0.1][baae6527][ExtensionHostConnection] <3044> Extension Host Process exited with code: 0, signal: null.
+2025-07-03 05:28:35.489 [info] [127.0.0.1][93f01ff3][ManagementConnection] New connection established.
+2025-07-03 05:28:35.503 [info] [127.0.0.1][a5738f27][ExtensionHostConnection] New connection established.
+2025-07-03 05:28:35.511 [info] [127.0.0.1][a5738f27][ExtensionHostConnection] <3724> Launched Extension Host Process.
