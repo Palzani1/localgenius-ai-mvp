@@ -1,0 +1,21 @@
+2025-05-19T15:40:15:333 [info]: PacProxyAgent not found
+2025-05-19T15:40:17:951 [warning]: There is no GitLab account available. Sending empty credentials to GitLab Language Server
+2025-05-19T15:40:18:011 [info]: handleRegisterCapability: {
+      "id": "566ab66c-5d69-4fcd-a200-2ea51c4869cb",
+      "method": "workspace/didChangeWatchedFiles",
+      "registerOptions": {
+        "watchers": [
+          {
+            "globPattern": "**/*"
+          }
+        ]
+      }
+    }
+2025-05-19T15:40:18:115 [warning]: [auth] Token validation failed in Language Server: (Token is invalid. Token is invalid or expired.. Reason: invalid_token). This can happen during OAuth token refresh.
+2025-05-19T15:40:18:130 [info]: Extracted urls: []
+2025-05-19T15:40:18:137 [info]: Extracted urls: []
+2025-05-19T15:40:18:138 [info]: More recent project update in progress, discarding findings for urls: []
+2025-05-19T15:40:18:139 [info]: Found 0 projects for urls: []
+2025-05-19T15:40:18:140 [warning]: There is no GitLab account available. Sending empty credentials to GitLab Language Server
+2025-05-19T15:40:18:181 [warning]: [auth] Token validation failed in Language Server: (Token is invalid. Token is invalid or expired.. Reason: invalid_token). This can happen during OAuth token refresh.
+2025-05-19T15:40:18:275 [warning]: [auth] Token validation failed in Language Server: (Token is invalid. Token is invalid or expired.. Reason: invalid_token). This can happen during OAuth token refresh.

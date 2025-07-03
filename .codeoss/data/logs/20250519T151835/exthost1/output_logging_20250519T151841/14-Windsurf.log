@@ -1,0 +1,32 @@
+(VSCode) 2025-05-19 15:25:33.813 [INFO]: No proxy settings found
+(VSCode) 2025-05-19 15:25:35.013 [INFO]: Checking network connection...
+(VSCode) 2025-05-19 15:25:35.314 [INFO]: No Network Issue connecting to https://server.codeium.com/healthz
+(VSCode) 2025-05-19 15:25:35.426 [INFO]: Creating manager directory: /tmp/feca922b-7005-4a9d-92a7-58f3800ae72b/codeium/manager
+(VSCode) 2025-05-19 15:25:35.428 [INFO]: 3d77d36b54024ba2297f94bd63f3cdb90ad0ad66 not found, downloading language server
+(VSCode) 2025-05-19 15:25:35.431 [INFO]: No proxy settings found
+(VSCode) 2025-05-19 15:25:40.344 [INFO]: Language server started
+2025/05/19 15:25:40 maxprocs: Updating GOMAXPROCS=3: determined from CPU quota
+I0519 15:25:40.544611  1799 main.go:583] [Language Server Manager] Setting GOMAXPROCS to 3
+I0519 15:25:40.544690  1799 main.go:804] [Language Server Manager] Starting language server manager with pid 1799
+I0519 15:25:40.545005  1799 main.go:125] [Language Server Manager] Manager acquired its lock file /tmp/feca922b-7005-4a9d-92a7-58f3800ae72b/codeium/manager/locks/manager.lock
+I0519 15:25:40.546217  1799 main.go:266] [Language Server Manager] Waiting for random port file in /tmp/feca922b-7005-4a9d-92a7-58f3800ae72b/codeium/manager/child_random_port_1747668340545250458_8715773210591976183 to be created
+2025/05/19 15:25:40 maxprocs: Updating GOMAXPROCS=3: determined from CPU quota
+I0519 15:25:40.746841  1809 main.go:583] Setting GOMAXPROCS to 3
+I0519 15:25:40.747047  1809 main.go:798] Starting language server process with pid 1809
+I0519 15:25:40.747112  1809 server.go:272] Language server will attempt to listen on host 127.0.0.1
+I0519 15:25:40.750758  1809 server.go:279] Language server listening on random port at 33129
+I0519 15:25:41.001638  1809 web_server.go:262] Chat Web Server listening at ws://127.0.0.1:39625
+I0519 15:25:41.241656  1809 server.go:938] Local search is enabled, will index local files.
+I0519 15:25:41.241705  1809 server.go:942] Using 1 indexer workers
+I0519 15:25:41.266089  1809 server.go:1095] Child process attempting to acquire lock file /tmp/feca922b-7005-4a9d-92a7-58f3800ae72b/codeium/manager/locks/child_lock_1747668340545408641_3797045168165363617
+I0519 15:25:41.266275  1809 server.go:1103] Child process acquired lock file /tmp/feca922b-7005-4a9d-92a7-58f3800ae72b/codeium/manager/locks/child_lock_1747668340545408641_3797045168165363617
+41445
+I0519 15:25:41.351828  1799 main.go:302] [Language Server Manager] Found random server port 33129
+I0519 15:25:41.351870  1799 main.go:303] [Language Server Manager] Found random lsp port 41445
+I0519 15:25:41.351898  1799 main.go:310] [Language Server Manager] Attempting to connect to language server at 127.0.0.1:33129
+I0519 15:25:41.366069  1799 main.go:179] [Language Server Manager] Fixing language server port at 33129
+I0519 15:25:41.366113  1799 main.go:364] [Language Server Manager] Successfully connected to new language server at 127.0.0.1:33129
+(VSCode) 2025-05-19 15:25:41.452 [INFO]: Found language server running on port 33129
+(VSCode) 2025-05-19 15:35:50.929 [ERROR]: undefined
+(VSCode) 2025-05-19 15:35:50.984 [ERROR]: undefined
+(VSCode) 2025-05-19 15:35:50.985 [ERROR]: undefined

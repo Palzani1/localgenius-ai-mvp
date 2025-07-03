@@ -1,0 +1,41 @@
+2025-05-19T17:57:32:647 [info]: PacProxyAgent not found
+2025-05-19T17:57:38:771 [warning]: There is no GitLab account available. Sending empty credentials to GitLab Language Server
+2025-05-19T17:57:38:793 [info]: handleRegisterCapability: {
+      "id": "ca460465-9075-4205-8c8a-9b27f22e066d",
+      "method": "workspace/didChangeWatchedFiles",
+      "registerOptions": {
+        "watchers": [
+          {
+            "globPattern": "**/*"
+          }
+        ]
+      }
+    }
+2025-05-19T17:57:38:912 [warning]: [auth] Token validation failed in Language Server: (Token is invalid. Token is invalid or expired.. Reason: invalid_token). This can happen during OAuth token refresh.
+2025-05-19T17:57:38:921 [info]: Extracted urls: []
+2025-05-19T17:57:38:924 [info]: Extracted urls: []
+2025-05-19T17:57:38:924 [info]: More recent project update in progress, discarding findings for urls: []
+2025-05-19T17:57:38:926 [info]: Found 0 projects for urls: []
+2025-05-19T17:57:38:927 [warning]: There is no GitLab account available. Sending empty credentials to GitLab Language Server
+2025-05-19T17:57:39:142 [warning]: [auth] Token validation failed in Language Server: (Token is invalid. Token is invalid or expired.. Reason: invalid_token). This can happen during OAuth token refresh.
+2025-05-19T17:57:39:197 [warning]: [auth] Token validation failed in Language Server: (Token is invalid. Token is invalid or expired.. Reason: invalid_token). This can happen during OAuth token refresh.
+2025-05-19T18:01:31:526 [error]: Cancelling the GitLab OAuth login after 60s. Try again.
+    Error: Cancelling the GitLab OAuth login after 60s. Try again.
+        at Timeout.<anonymous> (/home/jpalzani/.codeoss/extensions/src/desktop/accounts/auth_flows/oauth_flow.ts:141:28)
+        at Timeout.a [as _onTimeout] (/home/jpalzani/.codeoss/extensions/saoudrizwan.claude-dev-3.16.1-universal/dist/extension.js:904:9428)
+        at listOnTimeout (node:internal/timers:581:17)
+        at processTimers (node:internal/timers:519:7)
+2025-05-19T18:36:09:335 [error]: Canceled
+    Canceled: Canceled
+        at Ac (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+        at file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:31:118205
+        at Array.forEach (<anonymous>)
+        at Zb.dispose (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:31:118145)
+        at dB.terminate (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:118:10085)
+        at M3.terminate (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+        at ps (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+        at H4.a (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:174:11968)
+        at H4.h (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:30:75706)
+        at Timeout.a (/home/jpalzani/.codeoss/extensions/saoudrizwan.claude-dev-3.16.1-universal/dist/extension.js:904:9428)
+        at listOnTimeout (node:internal/timers:581:17)
+        at processTimers (node:internal/timers:519:7)

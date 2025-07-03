@@ -1,0 +1,19 @@
+2025-07-03T04:11:17:776 [info]: PacProxyAgent not found
+2025-07-03T04:11:23:748 [warning]: There is no GitLab account available. Sending empty credentials to GitLab Language Server
+2025-07-03T04:11:23:762 [info]: handleRegisterCapability: {
+      "id": "df1ff82e-7bf7-4bb2-b23b-b96798c66693",
+      "method": "workspace/didChangeWatchedFiles",
+      "registerOptions": {
+        "watchers": [
+          {
+            "globPattern": "**/*"
+          }
+        ]
+      }
+    }
+2025-07-03T04:11:23:774 [info]: Extracted urls: []
+2025-07-03T04:11:23:776 [info]: Extracted urls: []
+2025-07-03T04:11:23:777 [info]: More recent project update in progress, discarding findings for urls: []
+2025-07-03T04:11:23:778 [info]: Found 0 projects for urls: []
+2025-07-03T04:11:23:778 [warning]: There is no GitLab account available. Sending empty credentials to GitLab Language Server
+2025-07-03T04:11:23:858 [error]: No GitLab projectPath provided for agentic chat support check.

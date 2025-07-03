@@ -1,0 +1,64 @@
+2025-05-19 17:57:28.412 [info] 2025-05-19T17:57:28.127Z extension INFO  Activating extension... [
+  {
+    id: 'mongodb.mongodb-vscode',
+    version: '1.13.2',
+    mode: 'Production',
+    kind: 'Workspace',
+    extensionPath: '/home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.2-universal',
+    logPath: '/home/jpalzani/.codeoss/data/logs/20250519T175714/exthost1/mongodb.mongodb-vscode',
+    workspaceStoragePath: undefined,
+    globalStoragePath: '/home/jpalzani/.codeoss/data/User/globalStorage/mongodb.mongodb-vscode',
+    defaultConnectionSavingLocation: 'Global',
+    buildInfo: {
+      nodeVersion: 'v20.16.0',
+      runtimePlatform: 'linux',
+      runtimeArch: 'x64'
+    }
+  }
+]
+
+2025-05-19 17:57:28.412 [info] 2025-05-19T17:57:28.129Z language server controller INFO  Creating MongoDB Language Server... [
+  {
+    extensionPath: '/home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.2-universal',
+    languageServer: {
+      id: 'mongodbLanguageServer',
+      name: 'MongoDB Language Server',
+      path: '/home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.2-universal/dist/languageServer.js',
+      documentSelector: '[{"pattern":"**/*.mongodb.js"},{"pattern":"**/*.mongodb"}]'
+    }
+  }
+]
+
+2025-05-19 17:57:28.412 [info] 2025-05-19T17:57:28.145Z participant INFO  Chat participant created [ { participantId: 'mongodb.participant' } ]
+
+2025-05-19 17:57:28.412 [info] 2025-05-19T17:57:28.176Z language server controller INFO  Starting the language server... []
+
+2025-05-19 17:57:28.450 [info] 2025-05-19T17:57:28.449Z telemetry INFO  Segment analytics activated [
+  {
+    anonymousId: 'eb25f480-bc99-41d5-b8ec-587fd8c58218',
+    traits: {
+      device_id: '27be11c4fd834fd9d1600b355e7b34b48816f25dd4e2840e76ed408e60102ee0'
+    }
+  }
+]
+
+2025-05-19 17:57:32.454 [info] 2025-05-19T17:57:32.453Z language server controller INFO  MongoDBService initialized. Sending default settings... {"extensionPath":"/home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.2-universal","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false} []
+
+2025-05-19 18:36:09.326 [info] 2025-05-19T18:36:09.314Z extension INFO  Deactivating extension... []
+
+2025-05-19 18:36:09.326 [info] 2025-05-19T18:36:09.315Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2025-05-19 18:36:09.326 [info] 2025-05-19T18:36:09.316Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2025-05-19 18:36:09.326 [info] 2025-05-19T18:36:09.316Z connection controller ERROR Unable to disconnect: no active connection []
+
+2025-05-19 18:36:09.326 [info] 2025-05-19T18:36:09.320Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2025-05-19 18:36:09.326 [info] 2025-05-19T18:36:09.320Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2025-05-19 18:36:09.326 [info] 2025-05-19T18:36:09.320Z connection controller ERROR Unable to disconnect: no active connection []
+
+2025-05-19 18:36:09.329 [info] 2025-05-19T18:36:09.326Z language server controller INFO  Deactivating the language server... []
+
+2025-05-19 18:36:09.329 [info] 2025-05-19T18:36:09.326Z language server controller INFO  Deactivating the language server... []
+

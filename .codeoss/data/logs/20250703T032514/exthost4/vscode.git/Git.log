@@ -1,0 +1,131 @@
+2025-07-03 04:19:01.916 [info] [main] Log level: Info
+2025-07-03 04:19:01.916 [info] [main] Validating found git in: "git"
+2025-07-03 04:19:01.916 [info] [main] Using git "2.43.0" from "git"
+2025-07-03 04:19:01.916 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-03 04:19:01.916 [info] > git rev-parse --show-toplevel [3817ms]
+2025-07-03 04:19:01.916 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-03 04:19:01.925 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-03 04:19:01.925 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-03 04:19:01.933 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-03 04:19:01.933 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-03 04:19:01.941 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-03 04:19:01.941 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-03 04:19:01.948 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-03 04:19:01.948 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-03 04:19:02.074 [info] > git rev-parse --show-toplevel [17ms]
+2025-07-03 04:19:02.074 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-03 04:19:04.287 [info] > git rev-parse --show-toplevel [2202ms]
+2025-07-03 04:19:04.287 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-03 04:19:04.327 [info] > git rev-parse --show-toplevel [4ms]
+2025-07-03 04:19:04.327 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-03 04:19:04.758 [info] > git rev-parse --show-toplevel [156ms]
+2025-07-03 04:19:04.758 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-03 04:19:04.782 [info] > git rev-parse --show-toplevel [13ms]
+2025-07-03 04:19:04.782 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-03 04:19:04.783 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-03 04:24:04.118 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-03 04:24:04.133 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-07-03 04:24:04.148 [info] [Model][openRepository] Opened repository: /home/jpalzani/localgenius-ai-mvp
+2025-07-03 04:24:04.164 [info] > git config --get commit.template [4ms]
+2025-07-03 04:24:04.177 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-07-03 04:24:04.178 [warning] [Git][getBranch] No such branch: master
+2025-07-03 04:24:04.201 [info] > git status -z -uall [13ms]
+2025-07-03 04:24:04.202 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-07-03 04:24:04.231 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2025-07-03 04:24:04.231 [warning] [Git][getBranch] No such branch: master
+2025-07-03 04:24:04.232 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2025-07-03 04:24:04.234 [info] > git config --get commit.template [4ms]
+2025-07-03 04:24:04.245 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-07-03 04:24:04.245 [warning] [Git][getBranch] No such branch: master
+2025-07-03 04:24:04.265 [info] > git status -z -uall [11ms]
+2025-07-03 04:24:04.266 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-07-03 04:26:29.505 [info] > git check-ignore -v -z --stdin [3ms]
+2025-07-03 04:32:21.631 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/jpalzani/localgenius-ai-mvp/.git/HEAD'
+2025-07-03 04:32:21.647 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/jpalzani/localgenius-ai-mvp/.git/config'
+2025-07-03 04:32:21.670 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/jpalzani/localgenius-ai-mvp/.git/HEAD'
+2025-07-03 04:32:21.688 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/jpalzani/localgenius-ai-mvp/.git/config'
+2025-07-03 04:33:59.627 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/jpalzani/localgenius-ai-mvp/". Error:Error: ENOENT: no such file or directory, realpath '/home/jpalzani/localgenius-ai-mvp/'
+2025-07-03 04:37:50.704 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-03 04:37:50.714 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-07-03 04:37:50.720 [info] [Model][openRepository] Opened repository: /home/jpalzani
+2025-07-03 04:37:50.733 [info] > git config --get commit.template [3ms]
+2025-07-03 04:37:50.743 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-07-03 04:37:50.743 [warning] [Git][getBranch] No such branch: main
+2025-07-03 04:37:50.763 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-07-03 04:37:50.874 [info] > git status -z -uall [122ms] (cancelled)
+2025-07-03 04:37:52.736 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1687ms]
+2025-07-03 04:37:52.736 [warning] [Git][getBranch] No such branch: main
+2025-07-03 04:37:52.742 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2025-07-03 04:37:52.808 [info] > git check-ignore -v -z --stdin [45ms]
+2025-07-03 04:37:52.874 [info] > git config --get commit.template [154ms]
+2025-07-03 04:37:52.903 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-07-03 04:37:52.903 [warning] [Git][getBranch] No such branch: main
+2025-07-03 04:37:53.031 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2025-07-03 04:37:53.367 [info] > git status -z -uall [435ms] (cancelled)
+2025-07-03 04:38:08.987 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [27ms]
+2025-07-03 04:38:08.987 [info] fatal: bad revision 'refs/heads/main'
+2025-07-03 04:38:08.989 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-07-03 04:38:09.514 [info] > git check-ignore -v -z --stdin [2ms]
+2025-07-03 04:38:49.975 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [4ms]
+2025-07-03 04:38:49.975 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2025-07-03 04:38:49.985 [info] > git config --get-all user.name [1ms]
+2025-07-03 04:38:50.004 [info] > git config --get commit.template [9ms]
+2025-07-03 04:38:50.005 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-07-03 04:38:50.005 [warning] [Git][getBranch] No such branch: main
+2025-07-03 04:38:50.026 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-07-03 04:38:50.225 [info] > git status -z -uall [212ms] (cancelled)
+2025-07-03 04:45:07.320 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [11ms]
+2025-07-03 04:45:07.331 [info] > git config --get commit.template [2ms]
+2025-07-03 04:45:07.356 [info] > git config --get commit.template [10ms]
+2025-07-03 04:45:07.357 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-07-03 04:45:07.389 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-07-03 04:45:09.250 [info] > git status -z -uall [1884ms] (cancelled)
+2025-07-03 04:45:09.278 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [35ms]
+2025-07-03 04:45:11.294 [info] > git config --get commit.template [10ms]
+2025-07-03 04:45:11.294 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-07-03 04:45:11.318 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-07-03 04:45:11.491 [info] > git status -z -uall [187ms] (cancelled)
+2025-07-03 04:45:13.233 [info] > git check-ignore -v -z --stdin [21ms]
+2025-07-03 04:46:15.887 [info] > git add -A -- . [41464ms]
+2025-07-03 04:46:18.581 [info] > git show --textconv :.git/COMMIT_EDITMSG [20ms]
+2025-07-03 04:46:18.594 [info] > git ls-files --stage -- .git/COMMIT_EDITMSG [16ms]
+2025-07-03 04:46:18.605 [info] > git hash-object -t tree /dev/null [12ms]
+2025-07-03 04:46:18.605 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/jpalzani/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fjpalzani%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-07-03 04:46:18.613 [info] > git hash-object -t tree /dev/null [9ms]
+2025-07-03 04:46:18.613 [warning] [GitFileSystemProvider][stat] File not found - git:/home/jpalzani/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fjpalzani%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-07-03 04:46:18.760 [info] > git check-ignore -v -z --stdin [5ms]
+2025-07-03 05:01:56.846 [info] > git check-ignore -v -z --stdin [8ms]
+2025-07-03 05:02:03.370 [info] > git check-ignore -v -z --stdin [31ms]
+2025-07-03 05:02:06.452 [info] > git check-ignore -v -z --stdin [61ms]
+2025-07-03 05:02:08.132 [info] > git check-ignore -v -z --stdin [40ms]
+2025-07-03 05:02:17.924 [info] > git check-ignore -v -z --stdin [15ms]
+2025-07-03 05:02:25.858 [info] > git check-ignore -v -z --stdin [5ms]
+2025-07-03 05:02:33.097 [info] > git check-ignore -v -z --stdin [5ms]
+2025-07-03 05:02:36.881 [info] > git check-ignore -v -z --stdin [13ms]

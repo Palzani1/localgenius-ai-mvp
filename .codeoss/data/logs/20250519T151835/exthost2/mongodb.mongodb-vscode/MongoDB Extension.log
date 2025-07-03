@@ -1,0 +1,46 @@
+2025-05-19 15:40:09.791 [info] 2025-05-19T15:40:09.661Z extension INFO  Activating extension... [
+  {
+    id: 'mongodb.mongodb-vscode',
+    version: '1.13.2',
+    mode: 'Production',
+    kind: 'Workspace',
+    extensionPath: '/home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.2-universal',
+    logPath: '/home/jpalzani/.codeoss/data/logs/20250519T151835/exthost2/mongodb.mongodb-vscode',
+    workspaceStoragePath: undefined,
+    globalStoragePath: '/home/jpalzani/.codeoss/data/User/globalStorage/mongodb.mongodb-vscode',
+    defaultConnectionSavingLocation: 'Global',
+    buildInfo: {
+      nodeVersion: 'v20.16.0',
+      runtimePlatform: 'linux',
+      runtimeArch: 'x64'
+    }
+  }
+]
+
+2025-05-19 15:40:09.791 [info] 2025-05-19T15:40:09.664Z language server controller INFO  Creating MongoDB Language Server... [
+  {
+    extensionPath: '/home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.2-universal',
+    languageServer: {
+      id: 'mongodbLanguageServer',
+      name: 'MongoDB Language Server',
+      path: '/home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.2-universal/dist/languageServer.js',
+      documentSelector: '[{"pattern":"**/*.mongodb.js"},{"pattern":"**/*.mongodb"}]'
+    }
+  }
+]
+
+2025-05-19 15:40:09.791 [info] 2025-05-19T15:40:09.679Z participant INFO  Chat participant created [ { participantId: 'mongodb.participant' } ]
+
+2025-05-19 15:40:09.791 [info] 2025-05-19T15:40:09.714Z language server controller INFO  Starting the language server... []
+
+2025-05-19 15:40:09.791 [info] 2025-05-19T15:40:09.789Z telemetry INFO  Segment analytics activated [
+  {
+    anonymousId: 'eb25f480-bc99-41d5-b8ec-587fd8c58218',
+    traits: {
+      device_id: '27be11c4fd834fd9d1600b355e7b34b48816f25dd4e2840e76ed408e60102ee0'
+    }
+  }
+]
+
+2025-05-19 15:40:15.338 [info] 2025-05-19T15:40:15.337Z language server controller INFO  MongoDBService initialized. Sending default settings... {"extensionPath":"/home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.2-universal","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false} []
+

@@ -1,0 +1,6 @@
+roo-cline extension activated - {"publisher":"RooVeterinaryInc","name":"roo-cline","version":"3.19.4","outputChannel":"Roo-Code"}
+Skipping migration of cline_custom_modes.json to custom_modes.json: old file not found
+Skipping migration of cline_mcp_settings.json to mcp_settings.json: old file not found
+Successfully migrated custom_modes.json to YAML format (original JSON file preserved for rollback purposes)
+[auth] Transitioned to logged-out state
+ClineProvider instantiated

@@ -1,0 +1,48 @@
+2025-05-19 18:31:12.609 [info] Extension host with pid 1768 started
+2025-05-19 18:31:12.763 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onView:cloudcode.gemini.chatView'
+2025-05-19 18:31:12.765 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-05-19 18:31:12.765 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-19 18:31:12.766 [info] ExtensionService#_doActivateExtension RooVeterinaryInc.roo-cline, startup: false, activationEvent: 'onLanguage'
+2025-05-19 18:31:12.766 [info] ExtensionService#_doActivateExtension saoudrizwan.claude-dev, startup: false, activationEvent: 'onLanguage'
+2025-05-19 18:31:12.766 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onWalkthrough:placeholder', root cause: GitLab.gitlab-workflow
+2025-05-19 18:31:17.871 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2025-05-19 18:31:17.958 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onTerminalProfile:cloudshell.default'
+2025-05-19 18:31:18.084 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onWalkthrough:placeholder', root cause: GitLab.gitlab-workflow
+2025-05-19 18:31:18.085 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-19 18:31:18.516 [info] ExtensionService#_doActivateExtension GitLab.gitlab-workflow, startup: false, activationEvent: 'onWalkthrough:placeholder'
+2025-05-19 18:31:19.483 [info] Eager extensions activated
+2025-05-19 18:31:19.483 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-05-19 18:31:19.484 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-19 18:31:19.484 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-19 18:31:19.484 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-05-19 18:31:19.485 [info] ExtensionService#_doActivateExtension cweijan.vscode-mysql-client2, startup: false, activationEvent: 'onStartupFinished'
+2025-05-19 18:31:19.485 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-05-19 18:31:19.485 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-05-19 18:31:19.485 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-05-19 18:31:21.232 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-19 18:31:21.233 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-19 18:31:21.233 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-19 18:31:21.648 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-19 18:34:40.886 [info] ExtensionService#_doActivateExtension GustavoASC.google-drive-vscode, startup: false, activationEvent: '*'
+2025-05-19 18:41:40.156 [info] Extension host terminating: renderer disconnected for too long (2)
+2025-05-19 18:41:40.211 [error] Error: Channel has been closed
+    at s (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:120:2345)
+    at Object.appendLine (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:120:2463)
+    at Function.log (/home/jpalzani/.codeoss/extensions/saoudrizwan.claude-dev-3.16.1-universal/dist/extension.js:911:35803)
+    at Object.Vmu (/home/jpalzani/.codeoss/extensions/saoudrizwan.claude-dev-3.16.1-universal/dist/extension.js:3042:6739)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Promise.all (index 23)
+    at dB.$ (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:118:9891)
+2025-05-19 18:41:40.259 [error] Canceled: Canceled
+    at new eA (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:31:116752)
+    at Zb.U (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:31:121364)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:31:118858)
+    at NE.setValue (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:114:5336)
+    at file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:114:5960
+    at Cs.a (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:114:6078)
+    at Cs.h (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:30:75108)
+    at Cs.g (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:30:75092)
+    at Timeout.a [as _onTimeout] (/home/jpalzani/.codeoss/extensions/saoudrizwan.claude-dev-3.16.1-universal/dist/extension.js:904:9428)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)
+2025-05-19 18:41:40.266 [info] Extension host with pid 1768 exiting with code 0

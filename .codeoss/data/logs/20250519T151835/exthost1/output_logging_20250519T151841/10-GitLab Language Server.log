@@ -1,0 +1,170 @@
+2025-05-19T15:23:19:782 [info]: fetch: Detected no proxy settings
+2025-05-19T15:23:19:797 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2025-05-19T15:23:19:892 [info]: GitLab Language Server is starting (v7.31.0)
+2025-05-19T15:23:19:894 [info]: Applying 2 endpoints to connection.
+2025-05-19T15:23:19:918 [info]: Building webview path for chat
+2025-05-19T15:23:19:919 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/webviews/chat
+2025-05-19T15:23:19:923 [info]: Building webview path for duo-workflow-panel
+2025-05-19T15:23:19:923 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/webviews/duo-workflow-panel
+2025-05-19T15:23:19:924 [info]: Building webview path for duo-workflow
+2025-05-19T15:23:19:925 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/webviews/duo-workflow
+2025-05-19T15:23:19:926 [info]: Building webview path for duo-chat
+2025-05-19T15:23:19:926 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/webviews/duo-chat
+2025-05-19T15:23:19:927 [info]: Building webview path for agentic-duo-chat
+2025-05-19T15:23:19:927 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/webviews/agentic-duo-chat
+2025-05-19T15:23:19:928 [info]: Building webview path for duo-chat-v2
+2025-05-19T15:23:19:929 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/webviews/duo-chat-v2
+2025-05-19T15:23:19:930 [info]: Building webview path for security-vuln-details
+2025-05-19T15:23:19:930 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/webviews/security-vuln-details
+2025-05-19T15:23:19:938 [info]: [HttpServer]: server listening on http://127.0.0.1:43897/
+2025-05-19T15:23:19:940 [info]: GitLab Language Server has started
+2025-05-19T15:23:20:003 [info]: [WorkflowRailsService] Updated agent privileges: 1,2
+2025-05-19T15:23:20:007 [info]: [WorkflowRailsService] Updated agent privileges: 1,2
+2025-05-19T15:23:20:011 [info]: [WorkflowRailsService] Updated agent privileges: 1,2
+2025-05-19T15:23:20:014 [info]: [WorkflowRailsService] Updated agent privileges: 1,2
+2025-05-19T15:23:20:018 [info]: [WorkflowRailsService] Updated agent privileges: 1,2
+2025-05-19T15:23:20:028 [info]: [VirtualFileSystemService] Registering watchers
+2025-05-19T15:23:20:039 [info]: [WorkflowRailsService] Updated agent privileges: 1,2
+2025-05-19T15:23:20:148 [warning]: Error when checking a token validity
+    {
+      "message": "Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+      "stack": [
+        "Error: Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+        "    at RV (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:3566)",
+        "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+        "    at async #s (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:4981)",
+        "    at async #c (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8164)",
+        "    at async Promise.all (index 0)",
+        "    at async _ee.checkToken (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8506)",
+        "    at async _ee.configureApi (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:7236)",
+        "    at async Object.<anonymous> (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:6775)"
+      ],
+      "response": {
+        "status": 401,
+        "headers": {},
+        "body": "{\"message\":\"401 Unauthorized\"}"
+      }
+    }
+2025-05-19T15:23:20:149 [warning]: Error when checking a token validity
+    {
+      "message": "Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+      "stack": [
+        "Error: Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+        "    at RV (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:3566)",
+        "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+        "    at async #s (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:4981)",
+        "    at async #c (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8164)",
+        "    at async Promise.all (index 0)",
+        "    at async _ee.checkToken (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8506)",
+        "    at async _ee.configureApi (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:7236)",
+        "    at async Object.<anonymous> (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:6775)"
+      ],
+      "response": {
+        "status": 401,
+        "headers": {},
+        "body": "{\"message\":\"401 Unauthorized\"}"
+      }
+    }
+2025-05-19T15:23:20:167 [warning]: Error when checking a token validity
+    {
+      "message": "Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+      "stack": [
+        "Error: Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+        "    at RV (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:3566)",
+        "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+        "    at async #s (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:4981)",
+        "    at async #c (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8164)",
+        "    at async Promise.all (index 0)",
+        "    at async _ee.checkToken (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8506)",
+        "    at async _ee.configureApi (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:7236)",
+        "    at async Object.<anonymous> (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:6775)"
+      ],
+      "response": {
+        "status": 401,
+        "headers": {},
+        "body": "{\"message\":\"401 Unauthorized\"}"
+      }
+    }
+2025-05-19T15:23:20:171 [warning]: Error when checking a token validity
+    {
+      "message": "Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+      "stack": [
+        "Error: Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+        "    at RV (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:3566)",
+        "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+        "    at async #s (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:4981)",
+        "    at async #c (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8164)",
+        "    at async Promise.all (index 0)",
+        "    at async _ee.checkToken (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8506)",
+        "    at async _ee.configureApi (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:7236)",
+        "    at async Object.<anonymous> (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:6775)"
+      ],
+      "response": {
+        "status": 401,
+        "headers": {},
+        "body": "{\"message\":\"401 Unauthorized\"}"
+      }
+    }
+2025-05-19T15:23:20:172 [warning]: Error when checking a token validity
+    {
+      "message": "Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+      "stack": [
+        "Error: Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+        "    at RV (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:3566)",
+        "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+        "    at async #s (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:4981)",
+        "    at async #c (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8164)",
+        "    at async Promise.all (index 0)",
+        "    at async _ee.checkToken (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8506)",
+        "    at async _ee.configureApi (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:7236)",
+        "    at async Object.<anonymous> (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:6775)"
+      ],
+      "response": {
+        "status": 401,
+        "headers": {},
+        "body": "{\"message\":\"401 Unauthorized\"}"
+      }
+    }
+2025-05-19T15:23:20:184 [info]: [WorkflowRailsService] Updated agent privileges: 1,2
+2025-05-19T15:23:20:184 [warning]: Token is invalid. Token is invalid or expired.. Reason: invalid_token
+2025-05-19T15:23:20:187 [warning]: Error when checking a token validity
+    {
+      "message": "Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+      "stack": [
+        "Error: Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+        "    at RV (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:3566)",
+        "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+        "    at async #s (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:4981)",
+        "    at async #c (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8164)",
+        "    at async Promise.all (index 0)",
+        "    at async _ee.checkToken (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8506)",
+        "    at async _ee.configureApi (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:7236)",
+        "    at async Object.<anonymous> (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:6775)"
+      ],
+      "response": {
+        "status": 401,
+        "headers": {},
+        "body": "{\"message\":\"401 Unauthorized\"}"
+      }
+    }
+2025-05-19T15:23:20:277 [warning]: Error when checking a token validity
+    {
+      "message": "Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+      "stack": [
+        "Error: Fetching self from https://gitlab.com/api/v4/personal_access_tokens/self failed",
+        "    at RV (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:3566)",
+        "    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+        "    at async #s (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:4981)",
+        "    at async #c (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8164)",
+        "    at async Promise.all (index 0)",
+        "    at async _ee.checkToken (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:8506)",
+        "    at async _ee.configureApi (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:7236)",
+        "    at async Object.<anonymous> (/home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal/assets/language-server/node/main-bundle.js:1880:6775)"
+      ],
+      "response": {
+        "status": 401,
+        "headers": {},
+        "body": "{\"message\":\"401 Unauthorized\"}"
+      }
+    }
+2025-05-19T15:23:20:283 [warning]: Token is invalid. Token is invalid or expired.. Reason: invalid_token

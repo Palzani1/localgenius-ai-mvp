@@ -1,0 +1,56 @@
+2025-06-10 02:15:17.319 [info] 
+
+
+
+
+2025-06-10 02:15:17.367 [info] Extension host agent started.
+2025-06-10 02:15:18.028 [info] Deleted uninstalled extension from disk gustavoasc.google-drive-vscode /home/jpalzani/.codeoss/extensions/gustavoasc.google-drive-vscode-1.3.9-universal
+2025-06-10 02:15:21.152 [info] [127.0.0.1][fa24e28f][ManagementConnection] New connection established.
+2025-06-10 02:15:21.156 [info] [127.0.0.1][211417fe][ExtensionHostConnection] New connection established.
+2025-06-10 02:15:22.809 [info] [127.0.0.1][211417fe][ExtensionHostConnection] <1261> Launched Extension Host Process.
+2025-06-10 02:15:33.571 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2025-06-10 02:15:33.572 [info] Getting Manifest... cweijan.vscode-mysql-client2
+2025-06-10 02:15:33.572 [info] Getting Manifest... gitlab.gitlab-workflow
+2025-06-10 02:15:33.572 [info] Getting Manifest... rooveterinaryinc.roo-cline
+2025-06-10 02:15:33.572 [info] Getting Manifest... saoudrizwan.claude-dev
+2025-06-10 02:15:34.182 [info] Installing extension: saoudrizwan.claude-dev {"productVersion":{"version":"1.94.2-cde","date":"2025-06-02T07:11:13.147Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"}}
+2025-06-10 02:15:34.186 [info] Installing extension: bradlc.vscode-tailwindcss {"productVersion":{"version":"1.94.2-cde","date":"2025-06-02T07:11:13.147Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"}}
+2025-06-10 02:15:34.215 [info] Installing extension: rooveterinaryinc.roo-cline {"productVersion":{"version":"1.94.2-cde","date":"2025-06-02T07:11:13.147Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"}}
+2025-06-10 02:15:34.381 [info] Installing extension: gitlab.gitlab-workflow {"productVersion":{"version":"1.94.2-cde","date":"2025-06-02T07:11:13.147Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"}}
+2025-06-10 02:15:34.473 [info] Installing extension: cweijan.vscode-mysql-client2 {"productVersion":{"version":"1.94.2-cde","date":"2025-06-02T07:11:13.147Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"}}
+2025-06-10 02:15:35.852 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-06-10 02:15:35.856 [info] Extension signature verification is not done: bradlc.vscode-tailwindcss
+2025-06-10 02:15:36.139 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/bradlc.vscode-tailwindcss-0.14.21-universal: bradlc.vscode-tailwindcss
+2025-06-10 02:15:36.146 [info] Renamed to /home/jpalzani/.codeoss/extensions/bradlc.vscode-tailwindcss-0.14.21-universal
+2025-06-10 02:15:36.168 [info] Marked extension as uninstalled bradlc.vscode-tailwindcss-0.14.17-universal
+2025-06-10 02:15:36.188 [info] Extension installed successfully: bradlc.vscode-tailwindcss file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-06-10 02:15:36.450 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-06-10 02:15:36.450 [info] Extension signature verification is not done: cweijan.vscode-mysql-client2
+2025-06-10 02:15:36.813 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-06-10 02:15:36.813 [info] Extension signature verification is not done: saoudrizwan.claude-dev
+2025-06-10 02:15:37.123 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/cweijan.vscode-mysql-client2-8.3.5-universal: cweijan.vscode-mysql-client2
+2025-06-10 02:15:37.135 [info] Renamed to /home/jpalzani/.codeoss/extensions/cweijan.vscode-mysql-client2-8.3.5-universal
+2025-06-10 02:15:37.173 [info] Marked extension as uninstalled cweijan.vscode-mysql-client2-8.3.3-universal
+2025-06-10 02:15:37.176 [info] Extension installed successfully: cweijan.vscode-mysql-client2 file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-06-10 02:15:37.425 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-06-10 02:15:37.425 [info] Extension signature verification is not done: rooveterinaryinc.roo-cline
+2025-06-10 02:15:38.111 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/saoudrizwan.claude-dev-3.17.11-universal: saoudrizwan.claude-dev
+2025-06-10 02:15:38.119 [info] Renamed to /home/jpalzani/.codeoss/extensions/saoudrizwan.claude-dev-3.17.11-universal
+2025-06-10 02:15:38.143 [info] Marked extension as uninstalled saoudrizwan.claude-dev-3.16.1-universal
+2025-06-10 02:15:38.154 [info] Extension installed successfully: saoudrizwan.claude-dev file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-06-10 02:15:38.880 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-06-10 02:15:38.880 [info] Extension signature verification is not done: gitlab.gitlab-workflow
+2025-06-10 02:15:40.155 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/rooveterinaryinc.roo-cline-3.19.4-universal: rooveterinaryinc.roo-cline
+2025-06-10 02:15:40.164 [info] Renamed to /home/jpalzani/.codeoss/extensions/rooveterinaryinc.roo-cline-3.19.4-universal
+2025-06-10 02:15:40.215 [info] Marked extension as uninstalled rooveterinaryinc.roo-cline-3.17.2-universal
+2025-06-10 02:15:40.220 [info] Extension installed successfully: rooveterinaryinc.roo-cline file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-06-10 02:15:40.804 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.21.0-universal: gitlab.gitlab-workflow
+2025-06-10 02:15:40.816 [info] Renamed to /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.21.0-universal
+2025-06-10 02:15:40.846 [info] Marked extension as uninstalled gitlab.gitlab-workflow-6.13.1-universal
+2025-06-10 02:15:40.856 [info] Extension installed successfully: gitlab.gitlab-workflow file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-06-10 02:35:22.546 [info] [127.0.0.1][fa24e28f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-06-10 02:35:31.605 [info] [127.0.0.1][f967b3cc][ManagementConnection] New connection established.
+2025-06-10 02:35:32.057 [info] [127.0.0.1][4e7374bb][ExtensionHostConnection] New connection established.
+2025-06-10 02:35:32.063 [info] [127.0.0.1][4e7374bb][ExtensionHostConnection] <1377> Launched Extension Host Process.
+2025-06-10 02:38:23.210 [info] [127.0.0.1][f967b3cc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-06-10 02:40:31.874 [info] [127.0.0.1][211417fe][ExtensionHostConnection] <1261> Extension Host Process exited with code: 0, signal: null.

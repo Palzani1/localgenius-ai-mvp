@@ -1,0 +1,140 @@
+2025-05-19 15:18:35.452 [info] 
+
+
+
+
+2025-05-19 15:18:35.469 [info] Extension host agent started.
+2025-05-19 15:18:35.488 [info] Started initializing default profile extensions in extensions installation folder. file:///home/jpalzani/.codeoss/extensions
+2025-05-19 15:18:35.505 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/jpalzani/.codeoss/extensions
+2025-05-19 15:18:38.788 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] New connection established.
+2025-05-19 15:18:38.790 [info] [127.0.0.1][c97c5b72][ManagementConnection] New connection established.
+2025-05-19 15:18:40.702 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] <1267> Launched Extension Host Process.
+2025-05-19 15:22:12.440 [info] Getting Manifest... saoudrizwan.claude-dev
+2025-05-19 15:22:13.051 [info] Installing extension: saoudrizwan.claude-dev {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"}}
+2025-05-19 15:22:15.669 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:22:15.669 [info] Extension signature verification is not done: saoudrizwan.claude-dev
+2025-05-19 15:22:16.617 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/saoudrizwan.claude-dev-3.16.1-universal: saoudrizwan.claude-dev
+2025-05-19 15:22:16.625 [info] Renamed to /home/jpalzani/.codeoss/extensions/saoudrizwan.claude-dev-3.16.1-universal
+2025-05-19 15:22:16.638 [info] Extension installed successfully: saoudrizwan.claude-dev file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:22:27.731 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2025-05-19 15:22:28.217 [info] Installing extension: bradlc.vscode-tailwindcss {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"}}
+2025-05-19 15:22:29.691 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:22:29.691 [info] Extension signature verification is not done: bradlc.vscode-tailwindcss
+2025-05-19 15:22:29.801 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/bradlc.vscode-tailwindcss-0.14.17-universal: bradlc.vscode-tailwindcss
+2025-05-19 15:22:29.807 [info] Renamed to /home/jpalzani/.codeoss/extensions/bradlc.vscode-tailwindcss-0.14.17-universal
+2025-05-19 15:22:29.820 [info] Extension installed successfully: bradlc.vscode-tailwindcss file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:22:37.601 [info] Getting Manifest... cweijan.vscode-mysql-client2
+2025-05-19 15:22:38.336 [info] Installing extension: cweijan.vscode-mysql-client2 {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"}}
+2025-05-19 15:22:38.519 [info] Getting Manifest... cweijan.dbclient-jdbc
+2025-05-19 15:22:38.686 [info] Installing extension: cweijan.dbclient-jdbc {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-05-19 15:22:40.913 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:22:40.913 [info] Extension signature verification is not done: cweijan.vscode-mysql-client2
+2025-05-19 15:22:41.141 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:22:41.141 [info] Extension signature verification is not done: cweijan.dbclient-jdbc
+2025-05-19 15:22:41.542 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/cweijan.vscode-mysql-client2-8.3.3-universal: cweijan.vscode-mysql-client2
+2025-05-19 15:22:41.553 [info] Renamed to /home/jpalzani/.codeoss/extensions/cweijan.vscode-mysql-client2-8.3.3-universal
+2025-05-19 15:22:41.608 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/cweijan.dbclient-jdbc-1.4.2-universal: cweijan.dbclient-jdbc
+2025-05-19 15:22:41.614 [info] Renamed to /home/jpalzani/.codeoss/extensions/cweijan.dbclient-jdbc-1.4.2-universal
+2025-05-19 15:22:41.627 [info] Extension installed successfully: cweijan.vscode-mysql-client2 file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:22:41.627 [info] Extension installed successfully: cweijan.dbclient-jdbc file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:22:58.253 [info] Getting Manifest... ritwickdey.liveserver
+2025-05-19 15:22:58.778 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"}}
+2025-05-19 15:23:00.885 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:23:00.886 [info] Extension signature verification is not done: ritwickdey.liveserver
+2025-05-19 15:23:04.676 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/ritwickdey.liveserver-5.7.9-universal: ritwickdey.liveserver
+2025-05-19 15:23:04.702 [info] Renamed to /home/jpalzani/.codeoss/extensions/ritwickdey.liveserver-5.7.9-universal
+2025-05-19 15:23:04.720 [info] Extension installed successfully: ritwickdey.liveserver file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:23:09.172 [info] Getting Manifest... gitlab.gitlab-workflow
+2025-05-19 15:23:09.839 [info] Installing extension: gitlab.gitlab-workflow {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"}}
+2025-05-19 15:23:14.214 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:23:14.214 [info] Extension signature verification is not done: gitlab.gitlab-workflow
+2025-05-19 15:23:15.596 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal: gitlab.gitlab-workflow
+2025-05-19 15:23:15.606 [info] Renamed to /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal
+2025-05-19 15:23:15.642 [info] Extension installed successfully: gitlab.gitlab-workflow file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:23:33.223 [info] Getting Manifest... mhutchie.git-graph
+2025-05-19 15:23:33.934 [info] Installing extension: mhutchie.git-graph {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"}}
+2025-05-19 15:23:34.891 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:23:34.891 [info] Extension signature verification is not done: mhutchie.git-graph
+2025-05-19 15:23:34.972 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/mhutchie.git-graph-1.30.0-universal: mhutchie.git-graph
+2025-05-19 15:23:35.013 [info] Renamed to /home/jpalzani/.codeoss/extensions/mhutchie.git-graph-1.30.0-universal
+2025-05-19 15:23:35.059 [info] Extension installed successfully: mhutchie.git-graph file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:23:45.150 [info] Getting Manifest... rooveterinaryinc.roo-cline
+2025-05-19 15:23:45.625 [info] Installing extension: rooveterinaryinc.roo-cline {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"}}
+2025-05-19 15:23:48.975 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:23:48.976 [info] Extension signature verification is not done: rooveterinaryinc.roo-cline
+2025-05-19 15:23:50.872 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/rooveterinaryinc.roo-cline-3.17.2-universal: rooveterinaryinc.roo-cline
+2025-05-19 15:23:50.881 [info] Renamed to /home/jpalzani/.codeoss/extensions/rooveterinaryinc.roo-cline-3.17.2-universal
+2025-05-19 15:23:50.910 [info] Extension installed successfully: rooveterinaryinc.roo-cline file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:24:18.453 [info] Getting Manifest... ecmel.vscode-html-css
+2025-05-19 15:24:19.015 [info] Installing extension: ecmel.vscode-html-css {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"}}
+2025-05-19 15:24:19.618 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:24:19.619 [info] Extension signature verification is not done: ecmel.vscode-html-css
+2025-05-19 15:24:19.632 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/ecmel.vscode-html-css-2.0.13-universal: ecmel.vscode-html-css
+2025-05-19 15:24:19.639 [info] Renamed to /home/jpalzani/.codeoss/extensions/ecmel.vscode-html-css-2.0.13-universal
+2025-05-19 15:24:19.658 [info] Extension installed successfully: ecmel.vscode-html-css file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:24:35.822 [info] Getting Manifest... ms-kubernetes-tools.vscode-kubernetes-tools
+2025-05-19 15:24:36.428 [info] Installing extension: ms-kubernetes-tools.vscode-kubernetes-tools {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"}}
+2025-05-19 15:24:36.641 [info] Getting Manifest... redhat.vscode-yaml
+2025-05-19 15:24:36.833 [info] Installing extension: redhat.vscode-yaml {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-05-19 15:24:37.998 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:24:37.998 [info] Extension signature verification is not done: redhat.vscode-yaml
+2025-05-19 15:24:38.094 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/redhat.vscode-yaml-1.18.0-universal: redhat.vscode-yaml
+2025-05-19 15:24:38.101 [info] Renamed to /home/jpalzani/.codeoss/extensions/redhat.vscode-yaml-1.18.0-universal
+2025-05-19 15:24:38.726 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:24:38.727 [info] Extension signature verification is not done: ms-kubernetes-tools.vscode-kubernetes-tools
+2025-05-19 15:24:38.882 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.18-universal: ms-kubernetes-tools.vscode-kubernetes-tools
+2025-05-19 15:24:38.890 [info] Renamed to /home/jpalzani/.codeoss/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.18-universal
+2025-05-19 15:24:38.920 [info] Extension installed successfully: redhat.vscode-yaml file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:24:38.920 [info] Extension installed successfully: ms-kubernetes-tools.vscode-kubernetes-tools file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:25:03.273 [info] Getting Manifest... dsznajder.es7-react-js-snippets
+2025-05-19 15:25:03.777 [info] Installing extension: dsznajder.es7-react-js-snippets {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"}}
+2025-05-19 15:25:05.856 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:25:05.856 [info] Extension signature verification is not done: dsznajder.es7-react-js-snippets
+2025-05-19 15:25:06.146 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/dsznajder.es7-react-js-snippets-4.4.3-universal: dsznajder.es7-react-js-snippets
+2025-05-19 15:25:06.152 [info] Renamed to /home/jpalzani/.codeoss/extensions/dsznajder.es7-react-js-snippets-4.4.3-universal
+2025-05-19 15:25:06.181 [info] Extension installed successfully: dsznajder.es7-react-js-snippets file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:25:13.455 [info] Getting Manifest... mongodb.mongodb-vscode
+2025-05-19 15:25:14.048 [info] Installing extension: mongodb.mongodb-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"}}
+2025-05-19 15:25:16.238 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:25:16.238 [info] Extension signature verification is not done: mongodb.mongodb-vscode
+2025-05-19 15:25:16.733 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.2-universal: mongodb.mongodb-vscode
+2025-05-19 15:25:16.742 [info] Renamed to /home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.2-universal
+2025-05-19 15:25:16.772 [info] Extension installed successfully: mongodb.mongodb-vscode file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:25:29.670 [info] Getting Manifest... codeium.codeium
+2025-05-19 15:25:30.170 [info] Installing extension: codeium.codeium {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2-cde","date":"2025-05-11T07:13:06.990Z"}}
+2025-05-19 15:25:32.085 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /google/devshell/editor/code-oss-for-cloud-shell/out/vs/server/node/server.main.js
+2025-05-19 15:25:32.085 [info] Extension signature verification is not done: codeium.codeium
+2025-05-19 15:25:32.278 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/codeium.codeium-1.46.1-universal: codeium.codeium
+2025-05-19 15:25:32.292 [info] Renamed to /home/jpalzani/.codeoss/extensions/codeium.codeium-1.46.1-universal
+2025-05-19 15:25:32.323 [info] Extension installed successfully: codeium.codeium file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:25:33.813 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] <1267> [32m(VSCode) 2025-05-19 15:25:33 [INFO]: No proxy settings found[39m
+
+2025-05-19 15:25:35.013 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] <1267> [32m(VSCode) 2025-05-19 15:25:35 [INFO]: Checking network connection...[39m
+
+2025-05-19 15:25:35.315 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] <1267> [32m(VSCode) 2025-05-19 15:25:35 [INFO]: No Network Issue connecting to https://server.codeium.com/healthz[39m
+
+2025-05-19 15:25:35.426 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] <1267> [32m(VSCode) 2025-05-19 15:25:35 [INFO]: Creating manager directory: /tmp/feca922b-7005-4a9d-92a7-58f3800ae72b/codeium/manager[39m
+
+2025-05-19 15:25:35.428 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] <1267> [32m(VSCode) 2025-05-19 15:25:35 [INFO]: 3d77d36b54024ba2297f94bd63f3cdb90ad0ad66 not found, downloading language server[39m
+
+2025-05-19 15:25:35.431 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] <1267> [32m(VSCode) 2025-05-19 15:25:35 [INFO]: No proxy settings found[39m
+
+2025-05-19 15:25:40.344 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] <1267> [32m(VSCode) 2025-05-19 15:25:40 [INFO]: Language server started[39m
+
+2025-05-19 15:25:41.452 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] <1267> [32m(VSCode) 2025-05-19 15:25:41 [INFO]: Found language server running on port 33129[39m
+
+2025-05-19 15:35:50.930 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] <1267> [31m(VSCode) 2025-05-19 15:35:50 [ERROR]: undefined[39m
+
+2025-05-19 15:35:50.984 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] <1267> [31m(VSCode) 2025-05-19 15:35:50 [ERROR]: undefined[39m
+
+2025-05-19 15:35:50.985 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] <1267> [31m(VSCode) 2025-05-19 15:35:50 [ERROR]: undefined[39m
+
+2025-05-19 15:39:46.983 [info] Uninstalling extension from the profile: codeium.codeium@1.46.1 file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:39:47.014 [info] Marked extension as uninstalled codeium.codeium-1.46.1-universal
+2025-05-19 15:39:47.218 [error] [network] #82: https://open-vsx.org/vscode/gallery/publishers/Codeium/extensions/codeium/1.46.1/stats?statType=uninstall - error POST connect ECONNREFUSED 127.0.0.1:80
+2025-05-19 15:39:47.218 [info] Successfully uninstalled extension from the profile codeium.codeium@1.46.1 file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-05-19 15:39:56.753 [info] [127.0.0.1][c97c5b72][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-19 15:40:00.973 [info] [127.0.0.1][2478a343][ExtensionHostConnection] New connection established.
+2025-05-19 15:40:00.974 [info] [127.0.0.1][e2fbe248][ManagementConnection] New connection established.
+2025-05-19 15:40:00.980 [info] [127.0.0.1][2478a343][ExtensionHostConnection] <1936> Launched Extension Host Process.
+2025-05-19 15:45:02.231 [info] [127.0.0.1][c0a3be60][ExtensionHostConnection] <1267> Extension Host Process exited with code: 0, signal: null.

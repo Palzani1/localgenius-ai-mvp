@@ -1,0 +1,86 @@
+2025-07-03 03:25:14.804 [info] 
+
+
+
+
+2025-07-03 03:25:14.821 [info] Extension host agent started.
+2025-07-03 03:25:15.058 [info] Marked extension as removed bradlc.vscode-tailwindcss-0.14.17-universal
+2025-07-03 03:25:15.058 [info] Marked extension as removed cweijan.vscode-mysql-client2-8.3.3-universal
+2025-07-03 03:25:15.058 [info] Marked extension as removed gitlab.gitlab-workflow-6.13.1-universal
+2025-07-03 03:25:15.058 [info] Marked extension as removed rooveterinaryinc.roo-cline-3.17.2-universal
+2025-07-03 03:25:15.158 [info] Deleted marked for removal extension from disk bradlc.vscode-tailwindcss /home/jpalzani/.codeoss/extensions/bradlc.vscode-tailwindcss-0.14.17-universal
+2025-07-03 03:25:15.245 [info] Deleted marked for removal extension from disk cweijan.vscode-mysql-client2 /home/jpalzani/.codeoss/extensions/cweijan.vscode-mysql-client2-8.3.3-universal
+2025-07-03 03:25:15.247 [info] Deleted marked for removal extension from disk rooveterinaryinc.roo-cline /home/jpalzani/.codeoss/extensions/rooveterinaryinc.roo-cline-3.17.2-universal
+2025-07-03 03:25:15.248 [info] Deleted marked for removal extension from disk gitlab.gitlab-workflow /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.13.1-universal
+2025-07-03 03:25:15.249 [info] Deleted marked for removal extension from disk saoudrizwan.claude-dev /home/jpalzani/.codeoss/extensions/saoudrizwan.claude-dev-3.16.1-universal
+2025-07-03 03:25:19.786 [info] [127.0.0.1][a46f65be][ManagementConnection] New connection established.
+2025-07-03 03:25:19.794 [info] [127.0.0.1][452e5cd2][ExtensionHostConnection] New connection established.
+2025-07-03 03:25:21.407 [info] [127.0.0.1][452e5cd2][ExtensionHostConnection] <1244> Launched Extension Host Process.
+2025-07-03 03:25:27.207 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2025-07-03 03:25:27.207 [info] Getting Manifest... cweijan.vscode-mysql-client2
+2025-07-03 03:25:27.207 [info] Getting Manifest... gitlab.gitlab-workflow
+2025-07-03 03:25:27.207 [info] Getting Manifest... mongodb.mongodb-vscode
+2025-07-03 03:25:27.207 [info] Getting Manifest... ms-kubernetes-tools.vscode-kubernetes-tools
+2025-07-03 03:25:27.270 [info] Getting Manifest... rooveterinaryinc.roo-cline
+2025-07-03 03:25:27.270 [info] Getting Manifest... saoudrizwan.claude-dev
+2025-07-03 03:25:27.842 [info] Installing extension: bradlc.vscode-tailwindcss {"productVersion":{"version":"1.99.3-cde","date":"2025-06-22T07:10:38.849Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"}}
+2025-07-03 03:25:27.850 [info] Installing extension: rooveterinaryinc.roo-cline {"productVersion":{"version":"1.99.3-cde","date":"2025-06-22T07:10:38.849Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"}}
+2025-07-03 03:25:27.892 [info] Installing extension: saoudrizwan.claude-dev {"productVersion":{"version":"1.99.3-cde","date":"2025-06-22T07:10:38.849Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"}}
+2025-07-03 03:25:27.957 [info] Installing extension: mongodb.mongodb-vscode {"productVersion":{"version":"1.99.3-cde","date":"2025-06-22T07:10:38.849Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"}}
+2025-07-03 03:25:28.024 [info] Installing extension: gitlab.gitlab-workflow {"productVersion":{"version":"1.99.3-cde","date":"2025-06-22T07:10:38.849Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"}}
+2025-07-03 03:25:28.038 [info] Installing extension: ms-kubernetes-tools.vscode-kubernetes-tools {"productVersion":{"version":"1.99.3-cde","date":"2025-06-22T07:10:38.849Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"}}
+2025-07-03 03:25:28.153 [info] Installing extension: cweijan.vscode-mysql-client2 {"productVersion":{"version":"1.99.3-cde","date":"2025-06-22T07:10:38.849Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"}}
+2025-07-03 03:25:28.192 [info] Getting Manifest... redhat.vscode-yaml
+2025-07-03 03:25:28.297 [info] Getting Manifest... cweijan.dbclient-jdbc
+2025-07-03 03:25:29.320 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/bradlc.vscode-tailwindcss-0.14.23-universal: bradlc.vscode-tailwindcss
+2025-07-03 03:25:29.330 [info] Renamed to /home/jpalzani/.codeoss/extensions/bradlc.vscode-tailwindcss-0.14.23-universal
+2025-07-03 03:25:29.388 [info] Marked extension as removed bradlc.vscode-tailwindcss-0.14.21-universal
+2025-07-03 03:25:29.400 [info] Extension installed successfully: bradlc.vscode-tailwindcss file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-07-03 03:25:30.144 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.24-universal: ms-kubernetes-tools.vscode-kubernetes-tools
+2025-07-03 03:25:30.180 [info] Renamed to /home/jpalzani/.codeoss/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.24-universal
+2025-07-03 03:25:30.243 [info] Marked extension as removed ms-kubernetes-tools.vscode-kubernetes-tools-1.3.18-universal
+2025-07-03 03:25:30.256 [info] Extension installed successfully: ms-kubernetes-tools.vscode-kubernetes-tools file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-07-03 03:25:31.301 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.3-universal: mongodb.mongodb-vscode
+2025-07-03 03:25:31.329 [info] Renamed to /home/jpalzani/.codeoss/extensions/mongodb.mongodb-vscode-1.13.3-universal
+2025-07-03 03:25:31.362 [info] Marked extension as removed mongodb.mongodb-vscode-1.13.2-universal
+2025-07-03 03:25:31.370 [info] Extension installed successfully: mongodb.mongodb-vscode file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-07-03 03:25:31.924 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/cweijan.vscode-mysql-client2-8.3.6-universal: cweijan.vscode-mysql-client2
+2025-07-03 03:25:32.039 [info] Renamed to /home/jpalzani/.codeoss/extensions/cweijan.vscode-mysql-client2-8.3.6-universal
+2025-07-03 03:25:32.091 [info] Extension installed successfully: cweijan.vscode-mysql-client2 file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-07-03 03:25:32.095 [info] Marked extension as removed cweijan.vscode-mysql-client2-8.3.5-universal
+2025-07-03 03:25:32.484 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/saoudrizwan.claude-dev-3.18.1-universal: saoudrizwan.claude-dev
+2025-07-03 03:25:32.512 [info] Renamed to /home/jpalzani/.codeoss/extensions/saoudrizwan.claude-dev-3.18.1-universal
+2025-07-03 03:25:32.540 [info] Marked extension as removed saoudrizwan.claude-dev-3.17.11-universal
+2025-07-03 03:25:32.543 [info] Extension installed successfully: saoudrizwan.claude-dev file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-07-03 03:25:33.916 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.31.0-universal: gitlab.gitlab-workflow
+2025-07-03 03:25:33.938 [info] Renamed to /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.31.0-universal
+2025-07-03 03:25:33.968 [info] Marked extension as removed gitlab.gitlab-workflow-6.21.0-universal
+2025-07-03 03:25:33.978 [info] Extension installed successfully: gitlab.gitlab-workflow file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-07-03 03:25:34.285 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/rooveterinaryinc.roo-cline-3.22.6-universal: rooveterinaryinc.roo-cline
+2025-07-03 03:25:34.363 [info] Renamed to /home/jpalzani/.codeoss/extensions/rooveterinaryinc.roo-cline-3.22.6-universal
+2025-07-03 03:25:34.388 [info] Marked extension as removed rooveterinaryinc.roo-cline-3.19.4-universal
+2025-07-03 03:25:34.388 [info] Extension installed successfully: rooveterinaryinc.roo-cline file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-07-03 04:03:08.242 [info] [127.0.0.1][a46f65be][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-07-03 04:03:08.545 [info] [127.0.0.1][452e5cd2][ExtensionHostConnection] <1244> Extension Host Process exited with code: 0, signal: null.
+2025-07-03 04:03:12.046 [info] [127.0.0.1][264fbfc2][ManagementConnection] New connection established.
+2025-07-03 04:03:12.055 [info] [127.0.0.1][a3508dc7][ExtensionHostConnection] New connection established.
+2025-07-03 04:03:12.061 [info] [127.0.0.1][a3508dc7][ExtensionHostConnection] <1438> Launched Extension Host Process.
+2025-07-03 04:03:22.453 [info] Getting Manifest... ms-kubernetes-tools.vscode-kubernetes-tools
+2025-07-03 04:03:23.207 [info] Installing extension: ms-kubernetes-tools.vscode-kubernetes-tools {"productVersion":{"version":"1.99.3-cde","date":"2025-06-22T07:10:38.849Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jpalzani/.codeoss/extensions/extensions.json","external":"file:///home/jpalzani/.codeoss/extensions/extensions.json","path":"/home/jpalzani/.codeoss/extensions/extensions.json","scheme":"file"}}
+2025-07-03 04:03:23.346 [info] Getting Manifest... redhat.vscode-yaml
+2025-07-03 04:03:24.815 [info] Extracted extension to file:///home/jpalzani/.codeoss/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.25-universal: ms-kubernetes-tools.vscode-kubernetes-tools
+2025-07-03 04:03:24.831 [info] Renamed to /home/jpalzani/.codeoss/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.25-universal
+2025-07-03 04:03:24.860 [info] Marked extension as removed ms-kubernetes-tools.vscode-kubernetes-tools-1.3.24-universal
+2025-07-03 04:03:24.867 [info] Extension installed successfully: ms-kubernetes-tools.vscode-kubernetes-tools file:///home/jpalzani/.codeoss/extensions/extensions.json
+2025-07-03 04:04:16.694 [info] [127.0.0.1][a3508dc7][ExtensionHostConnection] The client has reconnected.
+2025-07-03 04:11:01.660 [info] [127.0.0.1][264fbfc2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-07-03 04:11:01.933 [info] [127.0.0.1][a3508dc7][ExtensionHostConnection] <1438> Extension Host Process exited with code: 0, signal: null.
+2025-07-03 04:11:05.833 [info] [127.0.0.1][e06dd7b4][ManagementConnection] New connection established.
+2025-07-03 04:11:05.840 [info] [127.0.0.1][99855e65][ExtensionHostConnection] New connection established.
+2025-07-03 04:11:05.846 [info] [127.0.0.1][99855e65][ExtensionHostConnection] <1527> Launched Extension Host Process.
+2025-07-03 04:18:40.154 [info] [127.0.0.1][e06dd7b4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-07-03 04:18:40.429 [info] [127.0.0.1][99855e65][ExtensionHostConnection] <1527> Extension Host Process exited with code: 0, signal: null.
+2025-07-03 04:18:49.719 [info] [127.0.0.1][d8e36966][ManagementConnection] New connection established.
+2025-07-03 04:18:49.721 [info] [127.0.0.1][643f36f7][ExtensionHostConnection] New connection established.
+2025-07-03 04:18:49.727 [info] [127.0.0.1][643f36f7][ExtensionHostConnection] <1604> Launched Extension Host Process.
+2025-07-03 04:32:20.084 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

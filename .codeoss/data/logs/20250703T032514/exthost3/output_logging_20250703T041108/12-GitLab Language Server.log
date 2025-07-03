@@ -1,0 +1,27 @@
+2025-07-03T04:11:23:547 [info]: fetch: Detected no proxy settings
+2025-07-03T04:11:23:557 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2025-07-03T04:11:23:659 [info]: GitLab Language Server is starting (v7.45.0)
+2025-07-03T04:11:23:660 [info]: Applying 2 endpoints to connection.
+2025-07-03T04:11:23:688 [info]: Building webview path for duo-workflow-panel
+2025-07-03T04:11:23:688 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.31.0-universal/assets/language-server/webviews/duo-workflow-panel
+2025-07-03T04:11:23:692 [info]: Building webview path for duo-workflow
+2025-07-03T04:11:23:693 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.31.0-universal/assets/language-server/webviews/duo-workflow
+2025-07-03T04:11:23:694 [info]: Building webview path for duo-chat
+2025-07-03T04:11:23:694 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.31.0-universal/assets/language-server/webviews/duo-chat
+2025-07-03T04:11:23:696 [info]: Building webview path for agentic-duo-chat
+2025-07-03T04:11:23:696 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.31.0-universal/assets/language-server/webviews/agentic-duo-chat
+2025-07-03T04:11:23:697 [info]: Building webview path for duo-chat-v2
+2025-07-03T04:11:23:697 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.31.0-universal/assets/language-server/webviews/duo-chat-v2
+2025-07-03T04:11:23:698 [info]: Building webview path for security-vuln-details
+2025-07-03T04:11:23:699 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.31.0-universal/assets/language-server/webviews/security-vuln-details
+2025-07-03T04:11:23:700 [info]: Building webview path for theming-preview
+2025-07-03T04:11:23:700 [info]: WEBVIEW_PATH: /home/jpalzani/.codeoss/extensions/gitlab.gitlab-workflow-6.31.0-universal/assets/language-server/webviews/theming-preview
+2025-07-03T04:11:23:707 [info]: [HttpServer]: server listening on http://127.0.0.1:41495/
+2025-07-03T04:11:23:710 [info]: GitLab Language Server has started
+2025-07-03T04:11:23:725 [info]: [WorkflowRailsService] Updated agent privileges: 1,2
+2025-07-03T04:11:23:727 [info]: [WorkflowRailsService] Updated agent privileges: 1,2
+2025-07-03T04:11:23:728 [info]: [WorkflowRailsService] Updated agent privileges: 1,2
+2025-07-03T04:11:23:728 [info]: [WorkflowRailsService] Updated agent privileges: 1,2
+2025-07-03T04:11:23:729 [info]: [WorkflowRailsService] Updated agent privileges: 1,2
+2025-07-03T04:11:23:745 [info]: [VirtualFileSystemService] Registering watchers
+2025-07-03T04:11:23:757 [info]: [WorkflowRailsService] Updated agent privileges: 1,2
